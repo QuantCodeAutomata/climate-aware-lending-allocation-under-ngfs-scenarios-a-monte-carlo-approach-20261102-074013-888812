@@ -1,0 +1,201 @@
+sector_idx,total_exposure,label,reallocation,scenario
+0,2.292023,EV transport equipment,0.006351,DAPS
+1,2.218578,Wind power,0.006021,DAPS
+2,4.374697,Solar power,0.009009,DAPS
+3,2.874644,Power supply,0.006691,DAPS
+4,3.561390,Electric machinery,0.001244,DAPS
+5,3.076644,Battery storage,0.002568,DAPS
+6,1.419272,Rail transport,0.003335,DAPS
+7,2.732218,Heating and cooling,-0.003109,DAPS
+8,5.434623,Agriculture,0.004103,DAPS
+9,2.195908,Food processing,-0.003632,DAPS
+10,1.191369,Chemicals,0.001390,DAPS
+11,1.560180,Textiles,-0.000739,DAPS
+12,1.280363,Wood and paper,0.001764,DAPS
+13,1.760806,Construction materials,-0.002407,DAPS
+14,2.443872,Metal products,-0.000200,DAPS
+15,2.087412,Machinery and equipment,-0.002263,DAPS
+16,1.666103,Automotive (ICE),-0.006384,DAPS
+17,0.404026,Aviation,-0.002293,DAPS
+18,1.625212,Shipping,-0.001630,DAPS
+19,3.135390,Road freight,-0.001571,DAPS
+20,3.030643,Coal mining,-0.003108,DAPS
+21,2.629954,Gas,0.000915,DAPS
+22,2.757104,Crude oil,-0.003054,DAPS
+23,0.344718,Oil,0.002366,DAPS
+24,1.064434,Natural gas distribution,0.000033,DAPS
+25,1.525119,Petroleum refining,-0.001337,DAPS
+26,0.347539,Plastics,0.000593,DAPS
+27,2.600287,Cement,-0.000234,DAPS
+28,4.444373,Steel,-0.007990,DAPS
+29,0.252301,Aluminium,-0.003537,DAPS
+30,1.340364,Glass,-0.000110,DAPS
+31,2.443756,Rubber,0.003302,DAPS
+32,0.577792,Electronics,-0.000660,DAPS
+33,1.663036,Telecommunications,0.002441,DAPS
+34,1.537934,Financial services,-0.005239,DAPS
+35,1.950740,Real estate,-0.000758,DAPS
+36,2.438903,Retail trade,0.003255,DAPS
+37,4.114521,Wholesale trade,0.002548,DAPS
+38,2.341921,Healthcare,-0.002822,DAPS
+39,1.770836,Education,0.001662,DAPS
+40,0.329129,Public administration,-0.003190,DAPS
+41,2.573820,Water supply,0.001160,DAPS
+42,0.421274,Waste management,0.000043,DAPS
+43,0.614783,Forestry,-0.003209,DAPS
+44,1.012411,Fishing,-0.000039,DAPS
+45,3.805111,Pharmaceuticals,0.000263,DAPS
+46,0.138536,Aerospace,0.001364,DAPS
+47,0.790711,Defence,-0.002537,DAPS
+48,1.841426,Logistics,-0.004432,DAPS
+49,1.961796,Other services,0.004062,DAPS
+0,2.537418,EV transport equipment,0.251746,HWTP
+1,2.354361,Wind power,0.141805,HWTP
+2,4.755699,Solar power,0.390011,HWTP
+3,3.175617,Power supply,0.307664,HWTP
+4,3.989802,Electric machinery,0.429656,HWTP
+5,3.290688,Battery storage,0.216611,HWTP
+6,1.645223,Rail transport,0.229286,HWTP
+7,2.729895,Heating and cooling,-0.005431,HWTP
+8,5.377728,Agriculture,-0.052791,HWTP
+9,2.201065,Food processing,0.001525,HWTP
+10,1.174423,Chemicals,-0.015556,HWTP
+11,1.548104,Textiles,-0.012815,HWTP
+12,1.255612,Wood and paper,-0.022987,HWTP
+13,1.763481,Construction materials,0.000268,HWTP
+14,2.429473,Metal products,-0.014598,HWTP
+15,2.084123,Machinery and equipment,-0.005551,HWTP
+16,1.537433,Automotive (ICE),-0.135054,HWTP
+17,0.372800,Aviation,-0.033519,HWTP
+18,1.545893,Shipping,-0.080949,HWTP
+19,2.988711,Road freight,-0.148251,HWTP
+20,2.872655,Coal mining,-0.161096,HWTP
+21,2.511493,Gas,-0.117546,HWTP
+22,2.581607,Crude oil,-0.178550,HWTP
+23,0.281785,Oil,-0.060567,HWTP
+24,0.993974,Natural gas distribution,-0.070427,HWTP
+25,1.444904,Petroleum refining,-0.081552,HWTP
+26,0.314654,Plastics,-0.032292,HWTP
+27,2.470381,Cement,-0.130139,HWTP
+28,4.169058,Steel,-0.283305,HWTP
+29,0.195138,Aluminium,-0.060700,HWTP
+30,1.335015,Glass,-0.005459,HWTP
+31,2.405452,Rubber,-0.035002,HWTP
+32,0.575175,Electronics,-0.003277,HWTP
+33,1.638145,Telecommunications,-0.022450,HWTP
+34,1.549454,Financial services,0.006281,HWTP
+35,1.931475,Real estate,-0.020023,HWTP
+36,2.399379,Retail trade,-0.036270,HWTP
+37,4.073100,Wholesale trade,-0.038872,HWTP
+38,2.343235,Healthcare,-0.001508,HWTP
+39,1.752652,Education,-0.016522,HWTP
+40,0.342058,Public administration,0.009738,HWTP
+41,2.542730,Water supply,-0.029930,HWTP
+42,0.413082,Waste management,-0.008149,HWTP
+43,0.623737,Forestry,0.005745,HWTP
+44,1.002222,Fishing,-0.010227,HWTP
+45,3.787525,Pharmaceuticals,-0.017324,HWTP
+46,0.126020,Aerospace,-0.011152,HWTP
+47,0.794446,Defence,0.001198,HWTP
+48,1.855563,Logistics,0.009704,HWTP
+49,1.916337,Other services,-0.041396,HWTP
+0,2.415068,EV transport equipment,0.129396,SWUC
+1,2.296426,Wind power,0.083869,SWUC
+2,4.602216,Solar power,0.236529,SWUC
+3,3.054783,Power supply,0.186830,SWUC
+4,3.818683,Electric machinery,0.258537,SWUC
+5,3.205038,Battery storage,0.130961,SWUC
+6,1.532532,Rail transport,0.116595,SWUC
+7,2.733863,Heating and cooling,-0.001463,SWUC
+8,5.402047,Agriculture,-0.028472,SWUC
+9,2.201822,Food processing,0.002282,SWUC
+10,1.181514,Chemicals,-0.008465,SWUC
+11,1.554959,Textiles,-0.005960,SWUC
+12,1.266210,Wood and paper,-0.012388,SWUC
+13,1.764346,Construction materials,0.001133,SWUC
+14,2.436752,Metal products,-0.007319,SWUC
+15,2.087800,Machinery and equipment,-0.001875,SWUC
+16,1.589517,Automotive (ICE),-0.082970,SWUC
+17,0.386376,Aviation,-0.019943,SWUC
+18,1.579034,Shipping,-0.047808,SWUC
+19,3.043922,Road freight,-0.093040,SWUC
+20,2.938618,Coal mining,-0.095134,SWUC
+21,2.559910,Gas,-0.069129,SWUC
+22,2.654750,Crude oil,-0.105407,SWUC
+23,0.306901,Oil,-0.035451,SWUC
+24,1.016553,Natural gas distribution,-0.047848,SWUC
+25,1.478320,Petroleum refining,-0.048136,SWUC
+26,0.327985,Plastics,-0.018961,SWUC
+27,2.523870,Cement,-0.076650,SWUC
+28,4.284796,Steel,-0.167567,SWUC
+29,0.219748,Aluminium,-0.036091,SWUC
+30,1.337750,Glass,-0.002723,SWUC
+31,2.421336,Rubber,-0.019118,SWUC
+32,0.574102,Electronics,-0.004350,SWUC
+33,1.648198,Telecommunications,-0.012397,SWUC
+34,1.548539,Financial services,0.005366,SWUC
+35,1.941662,Real estate,-0.009836,SWUC
+36,2.415910,Retail trade,-0.019739,SWUC
+37,4.091205,Wholesale trade,-0.020768,SWUC
+38,2.345150,Healthcare,0.000406,SWUC
+39,1.760104,Education,-0.009070,SWUC
+40,0.338581,Public administration,0.006262,SWUC
+41,2.557003,Water supply,-0.015657,SWUC
+42,0.417085,Waste management,-0.004146,SWUC
+43,0.622241,Forestry,0.004249,SWUC
+44,1.007282,Fishing,-0.005167,SWUC
+45,3.795951,Pharmaceuticals,-0.008897,SWUC
+46,0.130952,Aerospace,-0.006219,SWUC
+47,0.794912,Defence,0.001664,SWUC
+48,1.852618,Logistics,0.006759,SWUC
+49,1.935058,Other services,-0.022676,SWUC
+0,2.461451,EV transport equipment,0.175778,DiRe
+1,2.317229,Wind power,0.104672,DiRe
+2,4.660819,Solar power,0.295131,DiRe
+3,3.100916,Power supply,0.232963,DiRe
+4,3.882617,Electric machinery,0.322471,DiRe
+5,3.237376,Battery storage,0.163300,DiRe
+6,1.570809,Rail transport,0.154872,DiRe
+7,2.732164,Heating and cooling,-0.003162,DiRe
+8,5.393856,Agriculture,-0.036663,DiRe
+9,2.201207,Food processing,0.001667,DiRe
+10,1.179145,Chemicals,-0.010835,DiRe
+11,1.552415,Textiles,-0.008504,DiRe
+12,1.262638,Wood and paper,-0.015961,DiRe
+13,1.763809,Construction materials,0.000595,DiRe
+14,2.434164,Metal products,-0.009908,DiRe
+15,2.086285,Machinery and equipment,-0.003389,DiRe
+16,1.569356,Automotive (ICE),-0.103131,DiRe
+17,0.381029,Aviation,-0.025290,DiRe
+18,1.566539,Shipping,-0.060303,DiRe
+19,3.023586,Road freight,-0.113376,DiRe
+20,2.913766,Coal mining,-0.119985,DiRe
+21,2.542118,Gas,-0.086921,DiRe
+22,2.627249,Crude oil,-0.132909,DiRe
+23,0.297938,Oil,-0.044414,DiRe
+24,1.008093,Natural gas distribution,-0.056308,DiRe
+25,1.465764,Petroleum refining,-0.060692,DiRe
+26,0.323134,Plastics,-0.023812,DiRe
+27,2.504039,Cement,-0.096481,DiRe
+28,4.240833,Steel,-0.211530,DiRe
+29,0.210141,Aluminium,-0.045698,DiRe
+30,1.336773,Glass,-0.003700,DiRe
+31,2.416046,Rubber,-0.024408,DiRe
+32,0.574043,Electronics,-0.004408,DiRe
+33,1.644883,Telecommunications,-0.015712,DiRe
+34,1.548363,Financial services,0.005190,DiRe
+35,1.937994,Real estate,-0.013504,DiRe
+36,2.410388,Retail trade,-0.025261,DiRe
+37,4.085059,Wholesale trade,-0.026914,DiRe
+38,2.344203,Healthcare,-0.000540,DiRe
+39,1.757632,Education,-0.011542,DiRe
+40,0.339502,Public administration,0.007183,DiRe
+41,2.552076,Water supply,-0.020584,DiRe
+42,0.415677,Waste management,-0.005554,DiRe
+43,0.622462,Forestry,0.004470,DiRe
+44,1.005493,Fishing,-0.006956,DiRe
+45,3.793001,Pharmaceuticals,-0.011848,DiRe
+46,0.129343,Aerospace,-0.007829,DiRe
+47,0.794506,Defence,0.001258,DiRe
+48,1.853232,Logistics,0.007373,DiRe
+49,1.928839,Other services,-0.028894,DiRe

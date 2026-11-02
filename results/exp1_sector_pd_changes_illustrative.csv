@@ -1,0 +1,7 @@
+sector_idx,DAPS_pd_change,HWTP_pd_change,SWUC_pd_change,DiRe_pd_change,label,type
+0,0.000215,-0.009278,-0.005677,-0.007010,EV transport equipment,green
+1,0.000132,-0.005874,-0.003552,-0.004405,Wind power,green
+3,0.000170,-0.007523,-0.004562,-0.005652,Power supply,green
+21,0.000268,0.002027,0.001213,0.001552,Gas,fossil
+22,0.000303,0.002305,0.001376,0.001762,Crude oil,fossil
+23,0.000282,0.002138,0.001279,0.001636,Oil,fossil

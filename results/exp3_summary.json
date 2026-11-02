@@ -1,0 +1,45 @@
+{
+  "var_explained_q5": 0.9999999824209846,
+  "scenarios": {
+    "DAPS_climate_aware": {
+      "es99_gauss": 16.134608402378134,
+      "es99_t": 19.766594384812336,
+      "es99_t_increase_pct": 22.510530729080912
+    },
+    "DAPS_equal_weight": {
+      "es99_gauss": 14.545161290322557,
+      "es99_t": 18.813749999999963,
+      "es99_t_increase_pct": 29.347139055222836
+    },
+    "HWTP_climate_aware": {
+      "es99_gauss": 16.090145476989253,
+      "es99_t": 19.86680766887589,
+      "es99_t_increase_pct": 23.471895871219406
+    },
+    "HWTP_equal_weight": {
+      "es99_gauss": 14.478571428571406,
+      "es99_t": 18.646229508196683,
+      "es99_t_increase_pct": 28.785008936731103
+    },
+    "SWUC_climate_aware": {
+      "es99_gauss": 16.114483135930918,
+      "es99_t": 19.77399228838892,
+      "es99_t_increase_pct": 22.70944169657103
+    },
+    "SWUC_equal_weight": {
+      "es99_gauss": 14.524672131147517,
+      "es99_t": 18.611249999999966,
+      "es99_t_increase_pct": 28.135422486329077
+    },
+    "DiRe_climate_aware": {
+      "es99_gauss": 16.113568605201483,
+      "es99_t": 20.056565831572232,
+      "es99_t_increase_pct": 24.47004337138543
+    },
+    "DiRe_equal_weight": {
+      "es99_gauss": 14.473124999999978,
+      "es99_t": 18.847622950819634,
+      "es99_t_increase_pct": 30.22497180684658
+    }
+  }
+}

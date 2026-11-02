@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+env/
+*.log
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+*.ipynb_checkpoints
+# Raw downloaded market data (never commit API dumps)
+*.parquet
